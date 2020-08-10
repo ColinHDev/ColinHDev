@@ -28,6 +28,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TradeMenu「CEconomy」](https://www.youtube.com/watch?v=ed4_q23Zanc)
+- [AntiXRay 「CAC (CAntiCheat)」](https://www.youtube.com/watch?v=lrC1kSsOu5c)
+- [CSkull](https://www.youtube.com/watch?v=I349a8g8oK4)
 <!-- YOUTUBE:END -->
 
 ---
