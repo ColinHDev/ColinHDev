@@ -23,21 +23,16 @@
 [<img align="left" hspace="0" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/git.svg" />](https://git-scm.com/)
 <br/>
 
-### Highlighted projects
-
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TradeMenu「CEconomy」](https://www.youtube.com/watch?v=ed4_q23Zanc)
-- [AntiXRay 「CAC (CAntiCheat)」](https://www.youtube.com/watch?v=lrC1kSsOu5c)
-- [CSkull](https://www.youtube.com/watch?v=I349a8g8oK4)
 <!-- YOUTUBE:END -->
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ColinHDev&theme=dark&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinHDev&theme=dark&show_icons=true)
-![](https://github-profile-trophy.vercel.app/?username=ColinHDev)
+![](https://github-profile-trophy.vercel.app/?username=ColinHDev&theme=darkhub)
 
 [github]: https://github.com/ColinHDev
 [discord]: https://discord.com/invite/cAYKEtaqnp
