@@ -42,6 +42,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PocketMine-MP Hopper Pickup Test](https://www.youtube.com/watch?v=hVEPiK9KWkA)
+- [PocketMine-MP Hopper Pull Test](https://www.youtube.com/watch?v=6NWvr6Kv88E)
+- [PocketMine-MP Hopper Push Test](https://www.youtube.com/watch?v=4gSyuViaPaU)
+- [PocketMine-MP Issue](https://www.youtube.com/watch?v=WZJLEkgbNUM)
+- [TradeMenu「CEconomy」](https://www.youtube.com/watch?v=ed4_q23Zanc)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/ColinHDev)
 
@@ -51,6 +56,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#22](https://github.com/ColinHDev/CPlot/issues/22) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. 🗣 Commented on [#25](https://github.com/ColinHDev/CPlot/issues/25) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
