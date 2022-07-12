@@ -1,41 +1,71 @@
-### Hello there, I'm Colin - aka [ColinHDev][github] 👋
+### Hello there, I'm Colin - aka [ColinHDev](https://github.com/ColinHDev) 👋
 
 ### Connect with me:
 
-[<img align="left" hspace="0" alt="ColinHDev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" hspace="10" alt="ColinHDev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" hspace="0" alt="ColinHDev | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/gmail.svg" />][email]
-[<img align="left" hspace="10" alt="ColinHDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" hspace="0" alt="ColinHDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/reddit.svg" />][reddit]
-<br/>
+<p align="center">
+	<a href="https://github.com/ColinHDev"><img src="https://img.icons8.com/bubbles/60/000000/github.png" alt="GitHub"/></a>
+	<a href="https://discord.com/invite/cAYKEtaqnp"><img src="https://img.icons8.com/bubbles/60/000000/discord.png" alt="Discord"/></a>
+	<a href="mailto:colinh.2911@gmail.com"><img src="https://img.icons8.com/bubbles/60/000000/gmail-new.png" alt="Mail"/></a>
+</p>
 
-### Languages and APIs:
+### Other accounts of mine:
 
-[<img align="left" hspace="0" alt="PHP" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/php.svg" />](https://php.net)
-[<img align="left" hspace="10" alt="PocketMine-MP" width="26px" src="https://images-eu.ssl-images-amazon.com/images/I/41vtkBOXeCL.png" />](https://pmmp.io)
-[<img align="left" hspace="0" alt="MySQL" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/mysql.svg" />](https://www.mysql.com)
-[<img align="left" hspace="10" alt="SQLite" width="26px" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sqlite.svg" />](https://www.sqlite.org)
-<br/>
+<p align="center">
+	<a href="https://youtube.com/ColinHDev"><img src="https://img.icons8.com/bubbles/60/000000/youtube.png" alt="YouTube"/></a>
+	<a href="https://open.spotify.com/user/31hlddslorcsvco4j3wipgvt67pm?si=9c143b633e75472b"><img src="https://img.icons8.com/bubbles/60/000000/spotify.png" alt="Spotify"/></a>
+	<a href="https://steamcommunity.com/id/ColinHDev/"><img src="https://img.icons8.com/bubbles/60/000000/steam.png" alt="Steam"/></a>
+	<a href="https://www.instagram.com/colinhdev/"><img src="https://img.icons8.com/bubbles/60/000000/instagram-new--v2.png" alt="Instagram"/></a>
+	<a href="https://www.reddit.com/user/ColinHDev/"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="Reddit"/></a>
+</p>
 
-### Tools
-[<img align="left" hspace="0" alt="PhpStorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/phpstorm.svg" />](https://www.jetbrains.com/phpstorm/)
-[<img align="left" hspace="10" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/intellijidea.svg" />](https://www.jetbrains.com/idea/)
-[<img align="left" hspace="0" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/git.svg" />](https://git-scm.com/)
-<br/>
+### Languages, APIs and Frameworks:
+
+<p align="center">
+	<a href="https://php.net"><img src="https://img.icons8.com/dusk/50/000000/php-logo.png" alt="PHP"/></a>
+	<span style="display: inline-block; width: 8px;"></span>
+    <a href="https://pmmp.io"><img src="https://avatars.githubusercontent.com/u/3150836?s=200&v=4" width="42" alt="PocketMine-MP"/></a>
+    <span style="display: inline-block; width: 50px;"></span>
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>
+    <span style="display: inline-block; width: 2px;"></span>
+    <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL"/></a>
+    <span style="display: inline-block; width: 50px;"></span>
+    <a href="https://dart.dev/"><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart"/></a>
+    <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter"/></a>
+</p>
+
+### Tools:
+
+<p align="center">
+	<a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/phpstorm/phpstorm.svg" width="45" alt="PhpStorm"/></a>
+    <span style="display: inline-block; width: 8px;"></span>
+	<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/intellij-idea/intellij-idea.svg" width="45" alt="IntelliJ IDEA"/></a>
+    <span style="display: inline-block; width: 2px;"></span>
+	<a href="https://developer.android.com/studio"><img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Git"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/></a>
+</p>
 
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://youtube.com/ColinHDev)
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=ColinHDev&theme=dark&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinHDev&theme=dark&show_icons=true)
-![](https://github-profile-trophy.vercel.app/?username=ColinHDev&theme=darkhub)
 
-[github]: https://github.com/ColinHDev
-[discord]: https://discord.com/invite/cAYKEtaqnp
-[email]: mailto:colinh.2911@gmail.com
-[youtube]: https://youtube.com/ColinHDev
-[reddit]: https://www.reddit.com/user/ColinHDev/
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img alt="ColinHDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ColinHDev&theme=dark&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" />
+  <img alt="ColinHDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColinHDev&theme=dark&show_icons=true" />
+  <img alt="ColinHDev's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=ColinHDev&theme=darkhub" />
+
+</details>
