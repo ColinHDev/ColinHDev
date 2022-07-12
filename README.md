@@ -21,27 +21,21 @@
 ### Languages, APIs and Frameworks:
 
 <p align="center">
-	<a href="https://php.net"><img src="https://img.icons8.com/dusk/50/000000/php-logo.png" alt="PHP"/></a>
-	<span style="display: inline-block; width: 8px;"></span>
-    <a href="https://pmmp.io"><img src="https://avatars.githubusercontent.com/u/3150836?s=200&v=4" width="42" alt="PocketMine-MP"/></a>
-    <span style="display: inline-block; width: 50px;"></span>
-    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>
-    <span style="display: inline-block; width: 2px;"></span>
-    <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL"/></a>
-    <span style="display: inline-block; width: 50px;"></span>
-    <a href="https://dart.dev/"><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart"/></a>
+	<a href="https://php.net"><img src="https://img.icons8.com/dusk/50/000000/php-logo.png" style="padding-right:8px;" alt="PHP"/></a>
+    <a href="https://pmmp.io"><img src="https://avatars.githubusercontent.com/u/3150836?s=200&v=4" style="box-sizing: border-box; width: 92px; padding-bottom: 2px; padding-right: 50px;" alt="PocketMine-MP"/></a>
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" style="padding-right:2px;" alt="SQL"/>
+    <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" style="padding-right:50px;" alt="MySQL"/></a>
+    <a href="https://dart.dev/"><img src="https://img.icons8.com/color/50/000000/dart.png" style="padding-right:2px;" alt="Dart"/></a>
     <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter"/></a>
 </p>
 
 ### Tools:
 
 <p align="center">
-	<a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/phpstorm/phpstorm.svg" width="45" alt="PhpStorm"/></a>
-    <span style="display: inline-block; width: 8px;"></span>
-	<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/intellij-idea/intellij-idea.svg" width="45" alt="IntelliJ IDEA"/></a>
-    <span style="display: inline-block; width: 2px;"></span>
+	<a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/phpstorm/phpstorm.svg" style="box-sizing: border-box; width: 53px; padding-right: 8px;" alt="PhpStorm"/></a>
+	<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/96b4e064be1c0c0bee9e0636c925d10aa64732b6/web/intellij-idea/intellij-idea.svg" style="box-sizing: border-box; width: 49px; padding-right: 4px;" alt="IntelliJ IDEA"/></a>
 	<a href="https://developer.android.com/studio"><img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Git"/></a>
-    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/000000/git.png" style="margin-left: -3px" alt="Git"/></a>
 </p>
 
 ---
