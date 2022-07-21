@@ -56,16 +56,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/ColinHDev/CPlot/issues/36) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. ❗️ Opened issue [#34](https://github.com/ColinHDev/CPlot/issues/34) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 💪 Opened PR [#5184](https://github.com/pmmp/PocketMine-MP/pull/5184) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-4. 🗣 Commented on [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. ❗️ Opened issue [#32](https://github.com/ColinHDev/CPlot/issues/32) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. 🗣 Commented on [#31](https://github.com/ColinHDev/CPlot/issues/31) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. 🗣 Commented on [#4683](https://github.com/pmmp/PocketMine-MP/issues/4683) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-8. ❗️ Opened issue [#30](https://github.com/ColinHDev/CPlot/issues/30) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. ❗️ Opened issue [#29](https://github.com/ColinHDev/CPlot/issues/29) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. ❗️ Closed issue [#28](https://github.com/ColinHDev/CPlot/issues/28) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. ❗️ Closed issue [#36](https://github.com/ColinHDev/CPlot/issues/36) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#36](https://github.com/ColinHDev/CPlot/issues/36) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. ❗️ Closed issue [#35](https://github.com/ColinHDev/CPlot/issues/35) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#35](https://github.com/ColinHDev/CPlot/issues/35) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. ❗️ Opened issue [#37](https://github.com/ColinHDev/CPlot/issues/37) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. 🗣 Commented on [#36](https://github.com/ColinHDev/CPlot/issues/36) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. ❗️ Opened issue [#34](https://github.com/ColinHDev/CPlot/issues/34) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. 💪 Opened PR [#5184](https://github.com/pmmp/PocketMine-MP/pull/5184) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+9. 🗣 Commented on [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. ❗️ Opened issue [#32](https://github.com/ColinHDev/CPlot/issues/32) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
