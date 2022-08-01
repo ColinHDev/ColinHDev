@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ColinHDev/ActualAntiXRay/issues/1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-2. 🗣 Commented on [#1](https://github.com/ColinHDev/ActualAntiXRay/issues/1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-3. 🗣 Commented on [#45](https://github.com/ColinHDev/CPlot/issues/45) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. ❌ Closed PR [#26](https://github.com/ColinHDev/CPlot/pull/26) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. 🗣 Commented on [#26](https://github.com/ColinHDev/CPlot/issues/26) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. ❗️ Closed issue [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. 🗣 Commented on [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-8. 🗣 Commented on [#40](https://github.com/ColinHDev/CPlot/issues/40) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#19](https://github.com/ColinHDev/CPlot/issues/19) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#46](https://github.com/ColinHDev/CPlot/issues/46) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. ❗️ Closed issue [#1](https://github.com/ColinHDev/ActualAntiXRay/issues/1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+4. 🗣 Commented on [#1](https://github.com/ColinHDev/ActualAntiXRay/issues/1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+5. 🗣 Commented on [#45](https://github.com/ColinHDev/CPlot/issues/45) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. ❌ Closed PR [#26](https://github.com/ColinHDev/CPlot/pull/26) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🗣 Commented on [#26](https://github.com/ColinHDev/CPlot/issues/26) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. ❗️ Closed issue [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🗣 Commented on [#33](https://github.com/ColinHDev/CPlot/issues/33) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 10. 🗣 Commented on [#40](https://github.com/ColinHDev/CPlot/issues/40) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
