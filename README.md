@@ -56,16 +56,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/ColinHDev/CPlot/issues/49) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. ❗️ Opened issue [#48](https://github.com/ColinHDev/CPlot/issues/48) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🗣 Commented on [#18](https://github.com/ColinHDev/CPlot/issues/18) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. ❗️ Closed issue [#18](https://github.com/ColinHDev/CPlot/issues/18) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. ❗️ Closed issue [#15](https://github.com/ColinHDev/CPlot/issues/15) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. 🎉 Merged PR [#22](https://github.com/ColinHDev/CPlot/pull/22) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. 🗣 Commented on [#22](https://github.com/ColinHDev/CPlot/issues/22) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-8. ❗️ Opened issue [#47](https://github.com/ColinHDev/CPlot/issues/47) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🗣 Commented on [#46](https://github.com/ColinHDev/CPlot/issues/46) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. ❗️ Closed issue [#38](https://github.com/ColinHDev/CPlot/issues/38) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#49](https://github.com/ColinHDev/CPlot/issues/49) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. ❗️ Opened issue [#48](https://github.com/ColinHDev/CPlot/issues/48) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#18](https://github.com/ColinHDev/CPlot/issues/18) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. ❗️ Closed issue [#18](https://github.com/ColinHDev/CPlot/issues/18) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. ❗️ Closed issue [#15](https://github.com/ColinHDev/CPlot/issues/15) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🎉 Merged PR [#22](https://github.com/ColinHDev/CPlot/pull/22) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. 🗣 Commented on [#22](https://github.com/ColinHDev/CPlot/issues/22) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. ❗️ Opened issue [#47](https://github.com/ColinHDev/CPlot/issues/47) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🗣 Commented on [#17](https://github.com/ColinHDev/CPlot/issues/17) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
