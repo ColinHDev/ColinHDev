@@ -56,16 +56,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-2. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+1. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+2. ❗️ Closed issue [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
 3. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-4. ❗️ Closed issue [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-5. 🗣 Commented on [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-6. 🎉 Merged PR [#2](https://github.com/ColinHDev/ActualAntiXRay/pull/2) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-7. ❗️ Closed issue [#57](https://github.com/ColinHDev/CPlot/issues/57) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-8. 🗣 Commented on [#57](https://github.com/ColinHDev/CPlot/issues/57) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#2](https://github.com/ColinHDev/ActualAntiXRay/issues/2) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-10. 🗣 Commented on [#57](https://github.com/ColinHDev/CPlot/issues/57) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+5. ❗️ Closed issue [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+6. 🗣 Commented on [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+7. 🎉 Merged PR [#2](https://github.com/ColinHDev/ActualAntiXRay/pull/2) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+8. ❗️ Closed issue [#57](https://github.com/ColinHDev/CPlot/issues/57) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🗣 Commented on [#57](https://github.com/ColinHDev/CPlot/issues/57) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🗣 Commented on [#2](https://github.com/ColinHDev/ActualAntiXRay/issues/2) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
 <!--END_SECTION:activity-->
 
 </details>
