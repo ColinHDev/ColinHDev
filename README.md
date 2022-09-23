@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#56](https://github.com/ColinHDev/CPlot/pull/56) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#488](https://github.com/jasonwynn10/MyPlot/issues/488) in [jasonwynn10/MyPlot](https://github.com/jasonwynn10/MyPlot)
-3. 🗣 Commented on [#5235](https://github.com/pmmp/PocketMine-MP/issues/5235) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-4. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-5. ❗️ Closed issue [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+1. 🎉 Merged PR [#58](https://github.com/ColinHDev/CPlot/pull/58) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#58](https://github.com/ColinHDev/CPlot/issues/58) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. ❌ Closed PR [#56](https://github.com/ColinHDev/CPlot/pull/56) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#488](https://github.com/jasonwynn10/MyPlot/issues/488) in [jasonwynn10/MyPlot](https://github.com/jasonwynn10/MyPlot)
+5. 🗣 Commented on [#5235](https://github.com/pmmp/PocketMine-MP/issues/5235) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 6. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-7. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-8. ❗️ Closed issue [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-9. 🗣 Commented on [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-10. 🎉 Merged PR [#2](https://github.com/ColinHDev/ActualAntiXRay/pull/2) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+7. ❗️ Closed issue [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+8. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+9. 🗣 Commented on [#3](https://github.com/ColinHDev/ActualAntiXRay/issues/3) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+10. ❗️ Closed issue [#5171](https://github.com/pmmp/PocketMine-MP/issues/5171) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 <!--END_SECTION:activity-->
 
 </details>
