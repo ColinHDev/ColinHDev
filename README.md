@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#67](https://github.com/ColinHDev/CPlot/issues/67) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. ❗️ Closed issue [#68](https://github.com/ColinHDev/CPlot/issues/68) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. 🗣 Commented on [#68](https://github.com/ColinHDev/CPlot/issues/68) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. ❗️ Closed issue [#52](https://github.com/ColinHDev/CPlot/issues/52) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#52](https://github.com/ColinHDev/CPlot/issues/52) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. ❗️ Opened issue [#69](https://github.com/ColinHDev/CPlot/issues/69) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 5. 🗣 Commented on [#67](https://github.com/ColinHDev/CPlot/issues/67) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. ❗️ Closed issue [#2](https://github.com/ColinHDev/VanillaHopper/issues/2) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-7. 🗣 Commented on [#2](https://github.com/ColinHDev/VanillaHopper/issues/2) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-8. 🗣 Commented on [#2](https://github.com/ColinHDev/VanillaHopper/issues/2) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-9. 🗣 Commented on [#65](https://github.com/ColinHDev/CPlot/issues/65) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. ❗️ Closed issue [#62](https://github.com/ColinHDev/CPlot/issues/62) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. ❗️ Closed issue [#68](https://github.com/ColinHDev/CPlot/issues/68) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🗣 Commented on [#68](https://github.com/ColinHDev/CPlot/issues/68) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. 🗣 Commented on [#67](https://github.com/ColinHDev/CPlot/issues/67) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. ❗️ Closed issue [#2](https://github.com/ColinHDev/VanillaHopper/issues/2) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+10. 🗣 Commented on [#2](https://github.com/ColinHDev/VanillaHopper/issues/2) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
 <!--END_SECTION:activity-->
 
 </details>
