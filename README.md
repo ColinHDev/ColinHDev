@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#72](https://github.com/ColinHDev/CPlot/issues/72) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#72](https://github.com/ColinHDev/CPlot/issues/72) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🎉 Merged PR [#1](https://github.com/ColinHDev/libAsyncEvent/pull/1) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-4. 🗣 Commented on [#1](https://github.com/ColinHDev/libAsyncEvent/issues/1) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-5. 🗣 Commented on [#90](https://github.com/poggit/libasynql/issues/90) in [poggit/libasynql](https://github.com/poggit/libasynql)
-6. ❗️ Closed issue [#3](https://github.com/ColinHDev/VanillaHopper/issues/3) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-7. 🗣 Commented on [#3](https://github.com/ColinHDev/VanillaHopper/issues/3) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-8. 🗣 Commented on [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. ❗️ Closed issue [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. ❗️ Opened issue [#72](https://github.com/ColinHDev/CPlot/issues/72) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. 🗣 Commented on [#73](https://github.com/ColinHDev/CPlot/issues/73) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. ❗️ Closed issue [#72](https://github.com/ColinHDev/CPlot/issues/72) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#72](https://github.com/ColinHDev/CPlot/issues/72) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🎉 Merged PR [#1](https://github.com/ColinHDev/libAsyncEvent/pull/1) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+5. 🗣 Commented on [#1](https://github.com/ColinHDev/libAsyncEvent/issues/1) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+6. 🗣 Commented on [#90](https://github.com/poggit/libasynql/issues/90) in [poggit/libasynql](https://github.com/poggit/libasynql)
+7. ❗️ Closed issue [#3](https://github.com/ColinHDev/VanillaHopper/issues/3) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+8. 🗣 Commented on [#3](https://github.com/ColinHDev/VanillaHopper/issues/3) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+9. 🗣 Commented on [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. ❗️ Closed issue [#66](https://github.com/ColinHDev/CPlot/issues/66) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
