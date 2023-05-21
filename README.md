@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com/ColinHDev/CPlot/issues/74) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#74](https://github.com/ColinHDev/CPlot/issues/74) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 💪 Opened PR [#11157](https://github.com/php/php-src/pull/11157) in [php/php-src](https://github.com/php/php-src)
-4. 🗣 Commented on [#11154](https://github.com/php/php-src/issues/11154) in [php/php-src](https://github.com/php/php-src)
-5. ❗️ Opened issue [#11154](https://github.com/php/php-src/issues/11154) in [php/php-src](https://github.com/php/php-src)
-6. ❗️ Closed issue [#50](https://github.com/ColinHDev/CPlot/issues/50) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. ❗️ Closed issue [#73](https://github.com/ColinHDev/CPlot/issues/73) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-8. 🗣 Commented on [#5](https://github.com/ColinHDev/ActualAntiXRay/issues/5) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-9. 🗣 Commented on [#73](https://github.com/ColinHDev/CPlot/issues/73) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🗣 Commented on [#5669](https://github.com/pmmp/PocketMine-MP/issues/5669) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+1. 🎉 Merged PR [#43](https://github.com/ColinHDev/CPlot/pull/43) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. ❗️ Closed issue [#74](https://github.com/ColinHDev/CPlot/issues/74) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#74](https://github.com/ColinHDev/CPlot/issues/74) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 💪 Opened PR [#11157](https://github.com/php/php-src/pull/11157) in [php/php-src](https://github.com/php/php-src)
+5. 🗣 Commented on [#11154](https://github.com/php/php-src/issues/11154) in [php/php-src](https://github.com/php/php-src)
+6. ❗️ Opened issue [#11154](https://github.com/php/php-src/issues/11154) in [php/php-src](https://github.com/php/php-src)
+7. ❗️ Closed issue [#50](https://github.com/ColinHDev/CPlot/issues/50) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. ❗️ Closed issue [#73](https://github.com/ColinHDev/CPlot/issues/73) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🗣 Commented on [#5](https://github.com/ColinHDev/ActualAntiXRay/issues/5) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+10. 🗣 Commented on [#73](https://github.com/ColinHDev/CPlot/issues/73) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
