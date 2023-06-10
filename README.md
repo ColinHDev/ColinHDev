@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ColinHDev/VanillaHopper/issues/6) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-2. 🚀 Published release [libAsyncEvent v2.0.0](https://github.com/libAsyncEvent v2.0.0) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-3. 🗣 Commented on [#6](https://github.com/ColinHDev/VanillaHopper/issues/6) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-4. 🔒 Closed issue [#4](https://github.com/ColinHDev/VanillaHopper/issues/4) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-5. 🗣 Commented on [#5](https://github.com/ColinHDev/VanillaHopper/issues/5) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-6. 🔒 Closed issue [#5](https://github.com/ColinHDev/VanillaHopper/issues/5) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-7. 🚀 Published release [VanillaHopper v2.2.1](https://github.com/VanillaHopper v2.2.1) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+1. 🗣 Commented on [#76](https://github.com/ColinHDev/CPlot/issues/76) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#6](https://github.com/ColinHDev/VanillaHopper/issues/6) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+3. 🚀 Published release [libAsyncEvent v2.0.0](https://github.com/libAsyncEvent v2.0.0) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+4. 🗣 Commented on [#6](https://github.com/ColinHDev/VanillaHopper/issues/6) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+5. 🔒 Closed issue [#4](https://github.com/ColinHDev/VanillaHopper/issues/4) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+6. 🗣 Commented on [#5](https://github.com/ColinHDev/VanillaHopper/issues/5) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+7. 🔒 Closed issue [#5](https://github.com/ColinHDev/VanillaHopper/issues/5) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
 8. 🚀 Published release [VanillaHopper v2.2.1](https://github.com/VanillaHopper v2.2.1) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
-9. 🔒 Closed issue [#9](https://github.com/ColinHDev/CPlot/issues/9) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🗣 Commented on [#9](https://github.com/ColinHDev/CPlot/issues/9) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🚀 Published release [VanillaHopper v2.2.1](https://github.com/VanillaHopper v2.2.1) in [ColinHDev/VanillaHopper](https://github.com/ColinHDev/VanillaHopper)
+10. 🔒 Closed issue [#9](https://github.com/ColinHDev/CPlot/issues/9) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
