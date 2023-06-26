@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/ColinHDev/CPlot/issues/84) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. ❗ Opened issue [#11539](https://github.com/php/php-src/issues/11539) in [php/php-src](https://github.com/php/php-src)
 2. 🗣 Commented on [#84](https://github.com/ColinHDev/CPlot/issues/84) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🗣 Commented on [#47](https://github.com/ColinHDev/CPlot/issues/47) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#84](https://github.com/ColinHDev/CPlot/issues/84) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 4. 🗣 Commented on [#47](https://github.com/ColinHDev/CPlot/issues/47) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. ❗ Opened issue [#83](https://github.com/ColinHDev/CPlot/issues/83) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. 🔒 Closed issue [#82](https://github.com/ColinHDev/CPlot/issues/82) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. 🗣 Commented on [#82](https://github.com/ColinHDev/CPlot/issues/82) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. 🗣 Commented on [#47](https://github.com/ColinHDev/CPlot/issues/47) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. ❗ Opened issue [#83](https://github.com/ColinHDev/CPlot/issues/83) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🔒 Closed issue [#82](https://github.com/ColinHDev/CPlot/issues/82) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 8. 🗣 Commented on [#82](https://github.com/ColinHDev/CPlot/issues/82) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#80](https://github.com/ColinHDev/CPlot/issues/80) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🔒 Closed issue [#80](https://github.com/ColinHDev/CPlot/issues/80) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🗣 Commented on [#82](https://github.com/ColinHDev/CPlot/issues/82) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🗣 Commented on [#80](https://github.com/ColinHDev/CPlot/issues/80) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
