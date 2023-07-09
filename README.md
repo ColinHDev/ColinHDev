@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/ColinHDev/CPlot/pull/89) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#88](https://github.com/ColinHDev/CPlot/issues/88) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🗣 Commented on [#7](https://github.com/ColinHDev/ActualAntiXRay/issues/7) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-4. 🔒 Closed issue [#7](https://github.com/ColinHDev/ActualAntiXRay/issues/7) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-5. 🚀 Published release [ActualAntiXRay v1.1.1](https://github.com/ActualAntiXRay v1.1.1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-6. 🔒 Closed issue [#6](https://github.com/ColinHDev/ActualAntiXRay/issues/6) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-7. 🗣 Commented on [#6](https://github.com/ColinHDev/ActualAntiXRay/issues/6) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-8. 🔒 Closed issue [#5](https://github.com/ColinHDev/ActualAntiXRay/issues/5) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
-9. 🗣 Commented on [#88](https://github.com/ColinHDev/CPlot/issues/88) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🗣 Commented on [#86](https://github.com/ColinHDev/CPlot/issues/86) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. 💪 Opened PR [#90](https://github.com/ColinHDev/CPlot/pull/90) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 💪 Opened PR [#89](https://github.com/ColinHDev/CPlot/pull/89) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#88](https://github.com/ColinHDev/CPlot/issues/88) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#7](https://github.com/ColinHDev/ActualAntiXRay/issues/7) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+5. 🔒 Closed issue [#7](https://github.com/ColinHDev/ActualAntiXRay/issues/7) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+6. 🚀 Published release [ActualAntiXRay v1.1.1](https://github.com/ActualAntiXRay v1.1.1) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+7. 🔒 Closed issue [#6](https://github.com/ColinHDev/ActualAntiXRay/issues/6) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+8. 🗣 Commented on [#6](https://github.com/ColinHDev/ActualAntiXRay/issues/6) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+9. 🔒 Closed issue [#5](https://github.com/ColinHDev/ActualAntiXRay/issues/5) in [ColinHDev/ActualAntiXRay](https://github.com/ColinHDev/ActualAntiXRay)
+10. 🗣 Commented on [#88](https://github.com/ColinHDev/CPlot/issues/88) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
