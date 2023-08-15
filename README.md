@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ColinHDev/CPlotClaimAddon/pull/1) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
-2. 🗣 Commented on [#1](https://github.com/ColinHDev/CPlotClaimAddon/pull/1#issuecomment-1679386091) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
-3. 🗣 Commented on [#91](https://github.com/ColinHDev/CPlot/issues/91#issuecomment-1679378936) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. 🎉 Merged PR [#94](https://github.com/ColinHDev/CPlot/pull/94) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1651124113) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-6. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1650412927) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-7. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1650289170) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-8. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1648525115) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-9. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1648351853) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-10. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1648234880) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+1. 🗣 Commented on [#2](https://github.com/ColinHDev/CPlotClaimAddon/pull/2#issuecomment-1679390022) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
+2. 🎉 Merged PR [#1](https://github.com/ColinHDev/CPlotClaimAddon/pull/1) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
+3. 🗣 Commented on [#1](https://github.com/ColinHDev/CPlotClaimAddon/pull/1#issuecomment-1679386091) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
+4. 🗣 Commented on [#91](https://github.com/ColinHDev/CPlot/issues/91#issuecomment-1679378936) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. 🎉 Merged PR [#94](https://github.com/ColinHDev/CPlot/pull/94) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1651124113) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+7. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1650412927) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+8. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1650289170) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+9. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1648525115) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
+10. 🗣 Commented on [#5906](https://github.com/pmmp/PocketMine-MP/pull/5906#issuecomment-1648351853) in [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 <!--END_SECTION:activity-->
 
 </details>
