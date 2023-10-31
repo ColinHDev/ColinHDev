@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ColinHDev/AuD_Contest/pull/4) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-2. 💪 Opened PR [#4](https://github.com/ColinHDev/AuD_Contest/pull/4) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-3. 🎉 Merged PR [#3](https://github.com/ColinHDev/AuD_Contest/pull/3) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-4. 💪 Opened PR [#3](https://github.com/ColinHDev/AuD_Contest/pull/3) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-5. 🎉 Merged PR [#2](https://github.com/ColinHDev/AuD_Contest/pull/2) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-6. 🎉 Merged PR [#1](https://github.com/ColinHDev/AuD_Contest/pull/1) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-7. 🔒 Closed issue [#96](https://github.com/ColinHDev/CPlot/issues/96) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-8. 🎉 Merged PR [#97](https://github.com/ColinHDev/CPlot/pull/97) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#95](https://github.com/ColinHDev/CPlot/issues/95#issuecomment-1712553423) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🗣 Commented on [#2](https://github.com/ColinHDev/CPlotClaimAddon/pull/2#issuecomment-1679390022) in [ColinHDev/CPlotClaimAddon](https://github.com/ColinHDev/CPlotClaimAddon)
+1. 🎉 Merged PR [#5](https://github.com/ColinHDev/AuD_Contest/pull/5) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+2. 💪 Opened PR [#5](https://github.com/ColinHDev/AuD_Contest/pull/5) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+3. 🎉 Merged PR [#4](https://github.com/ColinHDev/AuD_Contest/pull/4) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+4. 💪 Opened PR [#4](https://github.com/ColinHDev/AuD_Contest/pull/4) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+5. 🎉 Merged PR [#3](https://github.com/ColinHDev/AuD_Contest/pull/3) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+6. 💪 Opened PR [#3](https://github.com/ColinHDev/AuD_Contest/pull/3) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+7. 🎉 Merged PR [#2](https://github.com/ColinHDev/AuD_Contest/pull/2) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+8. 🎉 Merged PR [#1](https://github.com/ColinHDev/AuD_Contest/pull/1) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+9. 🔒 Closed issue [#96](https://github.com/ColinHDev/CPlot/issues/96) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🎉 Merged PR [#97](https://github.com/ColinHDev/CPlot/pull/97) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
