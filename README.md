@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ColinHDev/AuD_Contest/pull/24) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-2. 💪 Opened PR [#24](https://github.com/ColinHDev/AuD_Contest/pull/24) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-3. 💪 Opened PR [#23](https://github.com/ColinHDev/AuD_Contest/pull/23) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-4. 🗣 Commented on [#11](https://github.com/ColinHDev/AuD_Contest/issues/11#issuecomment-1833987179) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-5. 🔒 Closed issue [#11](https://github.com/ColinHDev/AuD_Contest/issues/11) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-6. 🎉 Merged PR [#22](https://github.com/ColinHDev/AuD_Contest/pull/22) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-7. 🎉 Merged PR [#19](https://github.com/ColinHDev/AuD_Contest/pull/19) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-8. 💪 Opened PR [#19](https://github.com/ColinHDev/AuD_Contest/pull/19) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-9. 🎉 Merged PR [#16](https://github.com/ColinHDev/AuD_Contest/pull/16) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
-10. 🎉 Merged PR [#18](https://github.com/ColinHDev/AuD_Contest/pull/18) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+1. 🎉 Merged PR [#25](https://github.com/ColinHDev/AuD_Contest/pull/25) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+2. 💪 Opened PR [#25](https://github.com/ColinHDev/AuD_Contest/pull/25) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+3. 🎉 Merged PR [#24](https://github.com/ColinHDev/AuD_Contest/pull/24) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+4. 💪 Opened PR [#24](https://github.com/ColinHDev/AuD_Contest/pull/24) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+5. 💪 Opened PR [#23](https://github.com/ColinHDev/AuD_Contest/pull/23) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+6. 🗣 Commented on [#11](https://github.com/ColinHDev/AuD_Contest/issues/11#issuecomment-1833987179) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+7. 🔒 Closed issue [#11](https://github.com/ColinHDev/AuD_Contest/issues/11) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+8. 🎉 Merged PR [#22](https://github.com/ColinHDev/AuD_Contest/pull/22) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+9. 🎉 Merged PR [#19](https://github.com/ColinHDev/AuD_Contest/pull/19) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
+10. 💪 Opened PR [#19](https://github.com/ColinHDev/AuD_Contest/pull/19) in [ColinHDev/AuD_Contest](https://github.com/ColinHDev/AuD_Contest)
 <!--END_SECTION:activity-->
 
 </details>
