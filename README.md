@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/ColinHDev/CPlot/pull/106) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#105](https://github.com/ColinHDev/CPlot/issues/105#issuecomment-1902661627) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🗣 Commented on [#104](https://github.com/ColinHDev/CPlot/pull/104#issuecomment-1881836806) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. ❌ Closed PR [#104](https://github.com/ColinHDev/CPlot/pull/104) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. 🗣 Commented on [#103](https://github.com/ColinHDev/CPlot/pull/103#issuecomment-1881834403) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. ❌ Closed PR [#103](https://github.com/ColinHDev/CPlot/pull/103) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-7. 🗣 Commented on [#66](https://github.com/ColinHDev/GaTDsen/issues/66#issuecomment-1855045789) in [ColinHDev/GaTDsen](https://github.com/ColinHDev/GaTDsen)
-8. 🔒 Closed issue [#66](https://github.com/ColinHDev/GaTDsen/issues/66) in [ColinHDev/GaTDsen](https://github.com/ColinHDev/GaTDsen)
-9. 🗣 Commented on [#66](https://github.com/ColinHDev/GaTDsen/issues/66#issuecomment-1854070616) in [ColinHDev/GaTDsen](https://github.com/ColinHDev/GaTDsen)
-10. 🗣 Commented on [#66](https://github.com/ColinHDev/GaTDsen/issues/66#issuecomment-1854047695) in [ColinHDev/GaTDsen](https://github.com/ColinHDev/GaTDsen)
+1. 🗣 Commented on [#98](https://github.com/ColinHDev/CPlot/issues/98#issuecomment-2024858379) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+2. 🗣 Commented on [#99](https://github.com/ColinHDev/CPlot/issues/99#issuecomment-2024855037) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🔒 Closed issue [#99](https://github.com/ColinHDev/CPlot/issues/99) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🗣 Commented on [#100](https://github.com/ColinHDev/CPlot/issues/100#issuecomment-2024854314) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. 🔒 Closed issue [#101](https://github.com/ColinHDev/CPlot/issues/101) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. 🔒 Closed issue [#102](https://github.com/ColinHDev/CPlot/issues/102) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🗣 Commented on [#102](https://github.com/ColinHDev/CPlot/issues/102#issuecomment-2024851307) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+8. 🎉 Merged PR [#106](https://github.com/ColinHDev/CPlot/pull/106) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+9. 🗣 Commented on [#105](https://github.com/ColinHDev/CPlot/issues/105#issuecomment-1902661627) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🗣 Commented on [#104](https://github.com/ColinHDev/CPlot/pull/104#issuecomment-1881836806) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
