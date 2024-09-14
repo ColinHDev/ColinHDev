@@ -53,16 +53,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#113](https://github.com/ColinHDev/CPlot/issues/113) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-2. 🗣 Commented on [#109](https://github.com/ColinHDev/CPlot/issues/109#issuecomment-2306026994) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-3. 🔒 Closed issue [#109](https://github.com/ColinHDev/CPlot/issues/109) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-4. 🗣 Commented on [#112](https://github.com/ColinHDev/CPlot/issues/112#issuecomment-2306017353) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-5. 🔒 Closed issue [#112](https://github.com/ColinHDev/CPlot/issues/112) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-6. 🗣 Commented on [#2](https://github.com/ColinHDev/libAsyncEvent/pull/2#issuecomment-2306012766) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-7. ❌ Closed PR [#2](https://github.com/ColinHDev/libAsyncEvent/pull/2) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-8. 🚀 Published release [libAsyncEvent v3.0.0](https://github.com/ColinHDev/libAsyncEvent/releases/tag/v3.0.0) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
-9. 🗣 Commented on [#111](https://github.com/ColinHDev/CPlot/pull/111#issuecomment-2305968884) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. ❌ Closed PR [#111](https://github.com/ColinHDev/CPlot/pull/111) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. ❗ Opened issue [#1920](https://github.com/OpenEnergyPlatform/ontology/issues/1920) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. ❗ Opened issue [#113](https://github.com/ColinHDev/CPlot/issues/113) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+3. 🗣 Commented on [#109](https://github.com/ColinHDev/CPlot/issues/109#issuecomment-2306026994) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+4. 🔒 Closed issue [#109](https://github.com/ColinHDev/CPlot/issues/109) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+5. 🗣 Commented on [#112](https://github.com/ColinHDev/CPlot/issues/112#issuecomment-2306017353) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+6. 🔒 Closed issue [#112](https://github.com/ColinHDev/CPlot/issues/112) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+7. 🗣 Commented on [#2](https://github.com/ColinHDev/libAsyncEvent/pull/2#issuecomment-2306012766) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+8. ❌ Closed PR [#2](https://github.com/ColinHDev/libAsyncEvent/pull/2) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+9. 🚀 Published release [libAsyncEvent v3.0.0](https://github.com/ColinHDev/libAsyncEvent/releases/tag/v3.0.0) in [ColinHDev/libAsyncEvent](https://github.com/ColinHDev/libAsyncEvent)
+10. 🗣 Commented on [#111](https://github.com/ColinHDev/CPlot/pull/111#issuecomment-2305968884) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
