@@ -13,16 +13,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1936](https://github.com/OpenEnergyPlatform/ontology/pull/1936) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-2. 💪 Opened PR [#1936](https://github.com/OpenEnergyPlatform/ontology/pull/1936) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-3. 💪 Opened PR [#1935](https://github.com/OpenEnergyPlatform/ontology/pull/1935) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-4. 🔒 Closed issue [#1920](https://github.com/OpenEnergyPlatform/ontology/issues/1920) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-5. 🎉 Merged PR [#1921](https://github.com/OpenEnergyPlatform/ontology/pull/1921) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-6. 💪 Opened PR [#1921](https://github.com/OpenEnergyPlatform/ontology/pull/1921) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-7. ❗ Opened issue [#1920](https://github.com/OpenEnergyPlatform/ontology/issues/1920) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-8. ❗ Opened issue [#113](https://github.com/ColinHDev/CPlot/issues/113) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-9. 🗣 Commented on [#109](https://github.com/ColinHDev/CPlot/issues/109#issuecomment-2306026994) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
-10. 🔒 Closed issue [#109](https://github.com/ColinHDev/CPlot/issues/109) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+1. 🗣 Commented on [#1934](https://github.com/OpenEnergyPlatform/ontology/issues/1934#issuecomment-2395156583) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. 🎉 Merged PR [#1936](https://github.com/OpenEnergyPlatform/ontology/pull/1936) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+3. 💪 Opened PR [#1936](https://github.com/OpenEnergyPlatform/ontology/pull/1936) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+4. 💪 Opened PR [#1935](https://github.com/OpenEnergyPlatform/ontology/pull/1935) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+5. 🔒 Closed issue [#1920](https://github.com/OpenEnergyPlatform/ontology/issues/1920) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+6. 🎉 Merged PR [#1921](https://github.com/OpenEnergyPlatform/ontology/pull/1921) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+7. 💪 Opened PR [#1921](https://github.com/OpenEnergyPlatform/ontology/pull/1921) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+8. ❗ Opened issue [#1920](https://github.com/OpenEnergyPlatform/ontology/issues/1920) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+9. ❗ Opened issue [#113](https://github.com/ColinHDev/CPlot/issues/113) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
+10. 🗣 Commented on [#109](https://github.com/ColinHDev/CPlot/issues/109#issuecomment-2306026994) in [ColinHDev/CPlot](https://github.com/ColinHDev/CPlot)
 <!--END_SECTION:activity-->
 
 </details>
