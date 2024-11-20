@@ -13,16 +13,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1970](https://github.com/OpenEnergyPlatform/ontology/pull/1970) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-2. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2481756756) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-3. 💪 Opened PR [#1970](https://github.com/OpenEnergyPlatform/ontology/pull/1970) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-4. 💪 Opened PR [#1969](https://github.com/OpenEnergyPlatform/ontology/pull/1969) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-5. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2467103218) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-6. 🔒 Closed issue [#1934](https://github.com/OpenEnergyPlatform/ontology/issues/1934) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-7. 🎉 Merged PR [#1955](https://github.com/OpenEnergyPlatform/ontology/pull/1955) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-8. 🎉 Merged PR [#1961](https://github.com/OpenEnergyPlatform/ontology/pull/1961) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-9. ❗ Opened issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-10. 🎉 Merged PR [#1956](https://github.com/OpenEnergyPlatform/ontology/pull/1956) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+1. 🎉 Merged PR [#1969](https://github.com/OpenEnergyPlatform/ontology/pull/1969) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. 🎉 Merged PR [#1970](https://github.com/OpenEnergyPlatform/ontology/pull/1970) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+3. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2481756756) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+4. 💪 Opened PR [#1970](https://github.com/OpenEnergyPlatform/ontology/pull/1970) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+5. 💪 Opened PR [#1969](https://github.com/OpenEnergyPlatform/ontology/pull/1969) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+6. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2467103218) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+7. 🔒 Closed issue [#1934](https://github.com/OpenEnergyPlatform/ontology/issues/1934) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+8. 🎉 Merged PR [#1955](https://github.com/OpenEnergyPlatform/ontology/pull/1955) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+9. 🎉 Merged PR [#1961](https://github.com/OpenEnergyPlatform/ontology/pull/1961) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+10. ❗ Opened issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 <!--END_SECTION:activity-->
 
 </details>
