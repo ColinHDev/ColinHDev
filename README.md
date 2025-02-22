@@ -13,13 +13,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/OpenEnergyPlatform/oeo-tools/pull/30) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
-2. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2646598865) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-3. 💪 Opened PR [#3](https://github.com/scientific-ontology-network/ontology-development-guide/pull/3) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
-4. 💪 Opened PR [#2](https://github.com/scientific-ontology-network/ontology-development-guide/pull/2) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
-5. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/ontology-development-guide/pull/1) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
-6. 🔒 Closed issue [#1996](https://github.com/OpenEnergyPlatform/ontology/issues/1996) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-7. 🎉 Merged PR [#2003](https://github.com/OpenEnergyPlatform/ontology/pull/2003) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+1. 🔒 Closed issue [#28](https://github.com/OpenEnergyPlatform/oeo-tools/issues/28) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
+2. 🎉 Merged PR [#30](https://github.com/OpenEnergyPlatform/oeo-tools/pull/30) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
+3. 💪 Opened PR [#30](https://github.com/OpenEnergyPlatform/oeo-tools/pull/30) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
+4. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2646598865) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+5. 💪 Opened PR [#3](https://github.com/scientific-ontology-network/ontology-development-guide/pull/3) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
+6. 💪 Opened PR [#2](https://github.com/scientific-ontology-network/ontology-development-guide/pull/2) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
+7. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/ontology-development-guide/pull/1) in [scientific-ontology-network/ontology-development-guide](https://github.com/scientific-ontology-network/ontology-development-guide)
 8. 🗣 Commented on [#1993](https://github.com/OpenEnergyPlatform/ontology/pull/1993#issuecomment-2532694462) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 9. 💪 Opened PR [#1993](https://github.com/OpenEnergyPlatform/ontology/pull/1993) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 10. 🗣 Commented on [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962#issuecomment-2525296983) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
