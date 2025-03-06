@@ -13,16 +13,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.2) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
-2. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.1) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
-3. 💪 Opened PR [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-4. 🔓 Reopened issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-5. 🔒 Closed issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-6. 🎉 Merged PR [#1991](https://github.com/OpenEnergyPlatform/ontology/pull/1991) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-7. ❗ Opened issue [#2024](https://github.com/OpenEnergyPlatform/ontology/issues/2024) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-8. 🔒 Closed issue [#28](https://github.com/OpenEnergyPlatform/oeo-tools/issues/28) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
-9. 🎉 Merged PR [#30](https://github.com/OpenEnergyPlatform/oeo-tools/pull/30) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
-10. 💪 Opened PR [#30](https://github.com/OpenEnergyPlatform/oeo-tools/pull/30) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
+1. 🎉 Merged PR [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. 🗣 Commented on [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030#issuecomment-2704122696) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+3. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.2) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
+4. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.1) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
+5. 💪 Opened PR [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+6. 🔓 Reopened issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+7. 🔒 Closed issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+8. 🎉 Merged PR [#1991](https://github.com/OpenEnergyPlatform/ontology/pull/1991) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+9. ❗ Opened issue [#2024](https://github.com/OpenEnergyPlatform/ontology/issues/2024) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+10. 🔒 Closed issue [#28](https://github.com/OpenEnergyPlatform/oeo-tools/issues/28) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
 <!--END_SECTION:activity-->
 
 </details>
