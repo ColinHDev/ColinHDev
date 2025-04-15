@@ -13,9 +13,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-2. 🗣 Commented on [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030#issuecomment-2704122696) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-3. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.2) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
+1. 🗣 Commented on [#1960](https://github.com/OpenEnergyPlatform/ontology/issues/1960#issuecomment-2803299626) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. 💪 Opened PR [#2043](https://github.com/OpenEnergyPlatform/ontology/pull/2043) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+3. 💪 Opened PR [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 4. 🚀 Published release [Test](https://github.com/ColinHDev/ontology/releases/tag/v2.7.1) in [ColinHDev/ontology](https://github.com/ColinHDev/ontology)
 5. 💪 Opened PR [#2030](https://github.com/OpenEnergyPlatform/ontology/pull/2030) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 6. 🔓 Reopened issue [#1962](https://github.com/OpenEnergyPlatform/ontology/issues/1962) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
