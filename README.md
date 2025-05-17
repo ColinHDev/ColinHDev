@@ -13,16 +13,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2050](https://github.com/OpenEnergyPlatform/ontology/pull/2050) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-2. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2876025926) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-3. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2875897101) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-4. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2875546877) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-5. 🗣 Commented on [#2054](https://github.com/OpenEnergyPlatform/ontology/pull/2054#issuecomment-2875433788) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-6. 🗣 Commented on [#2050](https://github.com/OpenEnergyPlatform/ontology/pull/2050#issuecomment-2875370878) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-7. 🗣 Commented on [#8](https://github.com/MGlauer/web-fitch/issues/8#issuecomment-2864498646) in [MGlauer/web-fitch](https://github.com/MGlauer/web-fitch)
-8. ❗ Opened issue [#8](https://github.com/MGlauer/web-fitch/issues/8) in [MGlauer/web-fitch](https://github.com/MGlauer/web-fitch)
-9. ❗ Opened issue [#7](https://github.com/MGlauer/web-fitch/issues/7) in [MGlauer/web-fitch](https://github.com/MGlauer/web-fitch)
-10. 🗣 Commented on [#5](https://github.com/MGlauer/web-fitch/issues/5#issuecomment-2864255829) in [MGlauer/web-fitch](https://github.com/MGlauer/web-fitch)
+1. 🗣 Commented on [#2073](https://github.com/OpenEnergyPlatform/ontology/pull/2073#issuecomment-2887193500) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+2. 🎉 Merged PR [#2043](https://github.com/OpenEnergyPlatform/ontology/pull/2043) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+3. 🗣 Commented on [#2073](https://github.com/OpenEnergyPlatform/ontology/pull/2073#issuecomment-2887167726) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+4. 💪 Opened PR [#2073](https://github.com/OpenEnergyPlatform/ontology/pull/2073) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+5. 🎉 Merged PR [#2050](https://github.com/OpenEnergyPlatform/ontology/pull/2050) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+6. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2876025926) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+7. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2875897101) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+8. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-2875546877) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+9. 🗣 Commented on [#2054](https://github.com/OpenEnergyPlatform/ontology/pull/2054#issuecomment-2875433788) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+10. 🗣 Commented on [#2050](https://github.com/OpenEnergyPlatform/ontology/pull/2050#issuecomment-2875370878) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 <!--END_SECTION:activity-->
 
 </details>
