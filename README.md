@@ -13,7 +13,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2109](https://github.com/OpenEnergyPlatform/ontology/pull/2109#issuecomment-3146623126) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+1. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
 2. 🗣 Commented on [#2110](https://github.com/OpenEnergyPlatform/ontology/pull/2110#issuecomment-3124252507) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 3. 🗣 Commented on [#2042](https://github.com/OpenEnergyPlatform/ontology/pull/2042#issuecomment-3065627521) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 4. 🗣 Commented on [#2110](https://github.com/OpenEnergyPlatform/ontology/pull/2110#issuecomment-3065547978) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
