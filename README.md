@@ -13,12 +13,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-2. ❗ Opened issue [#3](https://github.com/scientific-ontology-network/strix-roost/issues/3) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-3. ❗ Opened issue [#2](https://github.com/scientific-ontology-network/strix-roost/issues/2) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-4. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-5. 💪 Opened PR [#2110](https://github.com/OpenEnergyPlatform/ontology/pull/2110) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
-6. 🗣 Commented on [#2109](https://github.com/OpenEnergyPlatform/ontology/pull/2109#issuecomment-3065458984) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+1. 🎉 Merged PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+2. 🎉 Merged PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+3. 💪 Opened PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+4. ❗ Opened issue [#3](https://github.com/scientific-ontology-network/strix-roost/issues/3) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+5. ❗ Opened issue [#2](https://github.com/scientific-ontology-network/strix-roost/issues/2) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+6. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
 7. 💪 Opened PR [#2109](https://github.com/OpenEnergyPlatform/ontology/pull/2109) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 8. 🗣 Commented on [#2108](https://github.com/OpenEnergyPlatform/ontology/pull/2108#issuecomment-3052156620) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
 9. 💪 Opened PR [#2108](https://github.com/OpenEnergyPlatform/ontology/pull/2108) in [OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
