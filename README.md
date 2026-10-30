@@ -13,16 +13,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/scientific-ontology-network/strix/pull/5) in [scientific-ontology-network/strix](https://github.com/scientific-ontology-network/strix)
-2. 💪 Opened PR [#5](https://github.com/scientific-ontology-network/strix-roost/pull/5) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-3. 💪 Opened PR [#5](https://github.com/scientific-ontology-network/strix/pull/5) in [scientific-ontology-network/strix](https://github.com/scientific-ontology-network/strix)
-4. 🎉 Merged PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-5. 🎉 Merged PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-6. 💪 Opened PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-7. ❗ Opened issue [#3](https://github.com/scientific-ontology-network/strix-roost/issues/3) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-8. ❗ Opened issue [#2](https://github.com/scientific-ontology-network/strix-roost/issues/2) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-9. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
-10. 💪 Opened PR [#43](https://github.com/OpenEnergyPlatform/oeo-tools/pull/43) in [OpenEnergyPlatform/oeo-tools](https://github.com/OpenEnergyPlatform/oeo-tools)
+1. 🎉 Merged PR [#5](https://github.com/scientific-ontology-network/strix-roost/pull/5) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+2. 🎉 Merged PR [#5](https://github.com/scientific-ontology-network/strix/pull/5) in [scientific-ontology-network/strix](https://github.com/scientific-ontology-network/strix)
+3. 💪 Opened PR [#5](https://github.com/scientific-ontology-network/strix-roost/pull/5) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+4. 💪 Opened PR [#5](https://github.com/scientific-ontology-network/strix/pull/5) in [scientific-ontology-network/strix](https://github.com/scientific-ontology-network/strix)
+5. 🎉 Merged PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+6. 🎉 Merged PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+7. 💪 Opened PR [#4](https://github.com/scientific-ontology-network/strix-roost/pull/4) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+8. ❗ Opened issue [#3](https://github.com/scientific-ontology-network/strix-roost/issues/3) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+9. ❗ Opened issue [#2](https://github.com/scientific-ontology-network/strix-roost/issues/2) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
+10. 💪 Opened PR [#1](https://github.com/scientific-ontology-network/strix-roost/pull/1) in [scientific-ontology-network/strix-roost](https://github.com/scientific-ontology-network/strix-roost)
 <!--END_SECTION:activity-->
 
 </details>
